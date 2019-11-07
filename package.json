@@ -1,0 +1,19 @@
+{
+  "name": "fonso",
+  "version": "1.0.1",
+  "description": "With the goal of simplifying unwanted code, the Fonso Tool was born",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Amilcar34/Fonso",
+  "keywords": [
+    "Fonso",
+    "Geco Technology & Services"
+  ],
+  "author": "Amilcar Lujan Alberino Longo",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^7.1.0"
+  }
+}
