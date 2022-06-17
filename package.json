@@ -14,6 +14,6 @@
   "author": "Amilcar Lujan Alberino Longo",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^7.1.0"
+    "electron": "^15.5.5"
   }
 }
